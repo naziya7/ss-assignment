@@ -1,0 +1,40 @@
+.w-full {
+    width: 100%;
+  }
+  
+  .relative {
+    position: relative;
+  }
+  
+  .wrap {
+    max-width: 25%;
+  }
+  
+  .bg-base-200 {
+    background-color: #e2e8f0;
+  }
+  
+  .p-5 {
+    padding: 1.25rem;
+  }
+  
+  .pt-16 {
+    padding-top: 4rem;
+  }
+  
+  .lg\:pt-10 {
+    padding-top: 2.5rem;
+  }
+  
+  .overflow-scroll {
+    overflow: scroll;
+  }
+  
+  .duration-300 {
+    transition-duration: 300ms;
+  }
+  
+  .mt-36 {
+    margin-top: 9rem;
+  }
+  
